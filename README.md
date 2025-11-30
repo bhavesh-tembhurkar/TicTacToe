@@ -37,9 +37,6 @@ The project follows MVVM (Model–View–ViewModel):
 ## How to Run
 
 1. Clone the repository  
-  
-  "git clone <YOUR-REPOSITORY-URL>"
-
 2. Open the project in Xcode  
 3. Select an iOS simulator or a physical iPhone device  
 4. Press **Run (⌘ + R)**  
