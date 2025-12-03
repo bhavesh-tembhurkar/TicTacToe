@@ -43,13 +43,6 @@ The project follows MVVM (Model–View–ViewModel):
 
 ---
 
-## Demo
-
-A short screen recording demonstrating gameplay, win/draw detection, and restart functionality has been included with the assignment submission.
-
----
-
-## Contact
 
 Bhavesh Tembhurkar  
 Email: bhaveshtembhurkar816@gmail.com  
